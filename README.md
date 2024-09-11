@@ -2,6 +2,10 @@
 
 Task Tracker CLI is a command-line application built in TypeScript to help you manage tasks efficiently. It allows you to add, update, delete, and track tasks, while saving the tasks in a JSON file for persistence.
 
+## Project Page
+
+For more information, visit the [Task Tracker project page](https://roadmap.sh/projects/task-tracker).
+
 ## Features
 
 - Add new tasks
