@@ -1,0 +1,24 @@
+{
+  "name": "task-tracker-cli",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "build": "npx tsc",
+    "start": "node dist/cli.js"
+  },
+  "keywords": [
+    "task",
+    "tracker",
+    "cli"
+  ],
+  "author": "Aleksi Huusko",
+  "license": "MIT",
+  "description": "A CLI for managing tasks",
+  "bin": {
+    "task-cli": "./dist/cli.js"
+  },
+  "devDependencies": {
+    "@types/node": "^22.5.4",
+    "typescript": "^5.6.2"
+  }
+}

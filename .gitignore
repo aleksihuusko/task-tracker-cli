@@ -1,0 +1,16 @@
+# Ignore node_modules and build directories
+node_modules/
+dist/
+
+# Ignore log files
+*.log
+
+# Ignore TypeScript temporary files
+*.tsbuildinfo
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore tasks.json (if it contains sensitive or irrelevant data)
+tasks.json
